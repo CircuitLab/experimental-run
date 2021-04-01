@@ -1,0 +1,30 @@
+html {
+
+    touch-action: manipulation;
+    color: #333;
+    font-family: serif;
+    font-size: 14px;
+
+}
+
+body {
+
+    margin: 0;
+    -webkit-text-size-adjust: 100%;
+
+}
+
+article {
+
+    width: 88%;
+    max-width: 767px;
+    margin: auto;
+
+}
+
+img {
+
+    width: 100%;
+    max-width: 500px;
+
+}
