@@ -1,39 +1,28 @@
 html {
-
-    touch-action: manipulation;
-    color: #333;
-    font-family: serif;
-    font-size: 14px;
-
+  touch-action: manipulation;
+  color: #333;
+  font-family: serif;
+  font-size: 14px;
 }
 
 body {
-
-    margin: 0;
-    -webkit-text-size-adjust: 100%;
-
+  margin: 0;
+  -webkit-text-size-adjust: 100%;
 }
 
 article {
-
-    width: 88%;
-    max-width: 767px;
-    margin: auto;
-
+  width: 88%;
+  max-width: 767px;
+  margin: auto auto 5em auto;
 }
 
 img {
-
-    width: 100%;
-    max-width: 500px;
-
+  max-width: 100%;
 }
 
 .unibalogo {
-
-    display: block;
-    width: 66%;
-    max-width: 146px;
-    margin: 2em auto 3em auto;
-
+  display: block;
+  width: 66%;
+  max-width: 146px;
+  margin: 2em auto 3em auto;
 }
