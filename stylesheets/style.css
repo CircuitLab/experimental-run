@@ -28,6 +28,10 @@ img {
   max-width: 100%;
 }
 
+ul p {
+  margin-left: 2em;
+}
+
 .unibalogo {
   display: block;
   width: 66%;
