@@ -20,6 +20,7 @@
   "editor.detectIndentation": false,
   "html.format.enable": true,
   "html.format.wrapAttributes": "preserve",
+  "html.format.wrapLineLength": 0,
   "css.format.enable": true,
   "javascript.format.enable": true,
   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
